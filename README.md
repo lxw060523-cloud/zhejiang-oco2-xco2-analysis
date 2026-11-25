@@ -2,7 +2,7 @@
 
 This repository contains the core data acquisition, regional extraction, and Ordinary Kriging spatial interpolation scripts supporting the manuscript:
 
-> **Assessing Regional Carbon–Economic Sustainability: Spatiotemporal Evolution of XCO2 Linked to Economic Development in China’s Zhejiang Province Based on OCO-2 Data**
+> **Regional Carbon–Economic Sustainability Assessment: Spatio-temporal Dynamics of XCO2 and Its Links to Economic Development in Zhejiang Province Based on OCO-2 Data**
 
 ## Repository Structure
 
